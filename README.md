@@ -12,3 +12,8 @@ This is a basic app to practice the MVVM design pattern on android.
 7. View Binding
 8. MVVM (Model-View-ViewModel)
 9. ViewModel + Live Data
+
+
+|search page | details page|home screen |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="https://raw.githubusercontent.com/salah1337/Mvvvm-unsplash-api/master/ImgSrch2.png" width="200px">|<img src="https://raw.githubusercontent.com/salah1337/Mvvvm-unsplash-api/master/imgSrch1.png" width="200px">|<img src="https://raw.githubusercontent.com/salah1337/Mvvvm-unsplash-api/master/ImgSrch3.png" width="200px">|
